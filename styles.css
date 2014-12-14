@@ -8,6 +8,11 @@ body {
     background: #fff;
 }
 
+a {
+    text-decoration: none;
+    transition: color .3s;
+}
+
 h1 {
     font-weight: normal;
     text-align: center;
@@ -39,5 +44,35 @@ ul, li {
 }
 
 #suggestions p {
+    padding-top: 20px;
     font-size: 18px;
+    color: #555;
+}
+
+#suggestions li span.icon-font {
+    width: 60px;
+    display: inline-block;
+    float: left;
+    transition: color .3s;
+}
+
+#suggestions li::after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+#suggestions li a {
+    color: #555;
+}
+
+#suggestions li:hover a,
+#suggestions li:hover span.icon-font {
+    color: #4682B4;
+}
+
+#suggestions .intro {
+    padding-top: 12px;
+    padding-left: 62px;
+    font-size: 16px;
 }
