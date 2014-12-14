@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'fontelico';
-    src: url('bower_components/fontelico.font/font/fontelico.eot?7803838');
-    src: url('bower_components/fontelico.font/font/fontelico.eot?7803838#iefix') format('embedded-opentype'),
-    url('bower_components/fontelico.font/font/fontelico.woff?7803838') format('woff'),
-    url('bower_components/fontelico.font/font/fontelico.ttf?7803838') format('truetype'),
-    url('bower_components/fontelico.font/font/fontelico.svg?7803838#fontelico') format('svg');
+    src: url('fonts/fontelico.eot?7803838');
+    src: url('fonts/fontelico.eot?7803838#iefix') format('embedded-opentype'),
+    url('fonts/fontelico.woff?7803838') format('woff'),
+    url('fonts/fontelico.ttf?7803838') format('truetype'),
+    url('fonts/fontelico.svg?7803838#fontelico') format('svg');
     font-weight: normal;
     font-style: normal;
 }

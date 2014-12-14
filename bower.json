@@ -1,20 +1,16 @@
 {
-  "name": "upgradeneeded",
-  "version": "0.0.1",
-  "homepage": "https://github.com/zenozeng/upgradeneeded",
-  "authors": [
-    "Zeno Zeng <zenoofzeng@gmail.com>"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-      "fontelico.font": "https://github.com/fontello/fontelico.font.git#2148ba79fe25287cfc06e6eb76e184fd533846fc",
-      "jquery": "~1.11.1"
-  }
+    "name": "upgradeneeded",
+    "version": "0.0.2",
+    "homepage": "https://github.com/zenozeng/upgradeneeded",
+    "authors": [
+        "Zeno Zeng <zenoofzeng@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
