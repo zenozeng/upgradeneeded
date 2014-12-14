@@ -62,6 +62,10 @@ ul, li {
     display: block;
 }
 
+#suggestions li {
+    cursor: pointer;
+}
+
 #suggestions li a {
     color: #555;
 }
@@ -75,4 +79,11 @@ ul, li {
     padding-top: 12px;
     padding-left: 62px;
     font-size: 16px;
+}
+
+#copyright {
+    font-size: 12px;
+    color: #aaa;
+    width: 500px;
+    margin: 20px auto;
 }

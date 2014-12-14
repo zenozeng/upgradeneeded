@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "fontelico.font": "https://github.com/fontello/fontelico.font.git#2148ba79fe25287cfc06e6eb76e184fd533846fc"
+      "fontelico.font": "https://github.com/fontello/fontelico.font.git#2148ba79fe25287cfc06e6eb76e184fd533846fc",
+      "jquery": "~1.11.1"
   }
 }
