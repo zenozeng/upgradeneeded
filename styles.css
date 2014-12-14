@@ -1,0 +1,43 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Hiragino Sans GB", "Source Han Sans CN", "Source Han Sans SC", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
+    background: #fff;
+}
+
+h1 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 32px;
+    line-height: 200px;
+    color: #555;
+    border-bottom: 1px dashed #777;
+}
+
+h1 span.icon-font {
+    font-size: 64px;
+    vertical-align: top;
+    padding-right: 32px;
+    display: inline-block;
+    color: #aaa;
+}
+
+ul, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#suggestions li, #suggestions p {
+    font-size: 36px;
+    color: #999;
+    width: 500px;
+    margin: 1em auto;
+}
+
+#suggestions p {
+    font-size: 18px;
+}
