@@ -10,7 +10,7 @@ body {
 
 a {
     text-decoration: none;
-    transition: color .3s;
+    transition: color .5s;
 }
 
 h1 {
@@ -53,6 +53,7 @@ ul, li {
     color: #999;
     display: inline-block;
     float: left;
+    transition: color .5s;
 }
 
 #suggestions li::after {
@@ -69,7 +70,8 @@ ul, li {
     color: #555;
 }
 
-#suggestions li:hover a {
+#suggestions li:hover a,
+#suggestions li:hover a span.icon-font {
     color: #4682B4;
 }
 
