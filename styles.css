@@ -25,9 +25,9 @@ h1 {
 h1 span.icon-font {
     font-size: 64px;
     vertical-align: top;
-    padding-right: 32px;
-    display: inline-block;
     color: #aaa;
+    position: relative;
+    top: 5px;
 }
 
 ul, li {
