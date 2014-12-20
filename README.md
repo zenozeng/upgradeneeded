@@ -2,6 +2,8 @@
 
 浏览器更新提示。
 
+Demo: http://zenozeng.github.io/upgradeneeded
+
 ## Usage
 
 ```bash
